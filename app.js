@@ -452,6 +452,8 @@
     "",
     "I built a tracker that gathers the FCC's own documents, the reporting, and the advocacy tools in one place, including the specific questions the Commission is asking (with paragraph numbers) and a worksheet for drafting a local comment.",
     "",
+    "If you have one minute, CoSN's Tell Congress page takes four fields and sends a letter to your members of Congress: https://cosn.quorum.us/campaign/165080/",
+    "",
     "As someone who writes critically about screens and AI in classrooms, I think the screen-time debate deserves serious attention. It is a pedagogical question, though, and it should not be settled by defunding the infrastructure a building needs to run safely.",
     "",
     SITE_URL,

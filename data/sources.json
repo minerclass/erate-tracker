@@ -50,6 +50,19 @@
       "summary": "The primary document. The NPRM asks whether E-rate should be limited or sunset, limited to rural or single-provider areas, or stripped of services the Commission now views as unnecessary; it also reopens CIPA and asks about screen-time limits and parental opt-outs. The FNPRM proposes consultant registration and oversight. Adopted with Chairman Carr and Commissioner Trusty approving and Commissioner Gomez dissenting in part."
     },
     {
+      "id": "tool-cosn-tell-congress",
+      "date": "2026-09-23",
+      "dateLabel": "Open now",
+      "type": "tool",
+      "featured": true,
+      "angle": "The one-minute action",
+      "title": "Tell Congress: Protect E-Rate and School Broadband",
+      "publisher": "CoSN Action Center",
+      "author": "CoSN",
+      "url": "https://cosn.quorum.us/campaign/165080/",
+      "summary": "The easiest action in this tracker: four fields and one click send a pre-written letter to your members of Congress urging them to protect and strengthen E-rate. It contacts Congress, not the FCC docket, so pair it with a comment in Docket 26-133 if you have more time."
+    },
+    {
       "id": "fcc-carr-statement",
       "date": "2026-06-25",
       "type": "fcc",

@@ -537,6 +537,20 @@ main > section { scroll-margin-top: 64px; }
 
 /* ---- Steps and worksheet ------------------------------------------------- */
 
+.quick-action {
+  display: flex; align-items: center; justify-content: space-between; gap: 24px;
+  margin-bottom: 28px;
+  padding: 24px 28px;
+  border: 1px solid rgba(240, 189, 69, 0.45);
+  border-left: 4px solid var(--gold);
+  border-radius: var(--radius-lg);
+  background: linear-gradient(90deg, rgba(240, 189, 69, 0.08), rgba(240, 189, 69, 0.02)), var(--bg);
+}
+.quick-action .eyebrow { color: var(--gold); }
+.quick-action h3 { font-family: var(--serif); font-size: 1.45rem; }
+.quick-action p:not(.eyebrow) { margin: 0; max-width: 68ch; color: var(--muted); }
+.quick-action .button { flex: none; }
+
 .steps {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
@@ -679,6 +693,7 @@ main > section { scroll-margin-top: 64px; }
   .stats li { padding: 16px; }
   .steps { grid-template-columns: 1fr; }
   .worksheet { padding: 20px; }
+  .quick-action { flex-direction: column; align-items: flex-start; padding: 20px; }
   .ws-fields, .checks { grid-template-columns: 1fr; }
   .share-grid { grid-template-columns: 1fr; }
   .note-card { padding: 26px; }

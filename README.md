@@ -16,6 +16,8 @@ FCC's own documents, the reporting, and the advocacy tools around it.
 ## What is on the page
 
 - **Deadline countdown** to the comment and reply deadlines, calculated in Eastern time.
+- **The one-minute action:** a link to CoSN's Tell Congress page, which sends a pre-written letter to
+  a visitor's members of Congress. It is kept distinct from filing in the FCC docket.
 - **The morning, hour by hour:** a stepper through Hawthorne's account of what the network carries before
   any student logs on, with the federal and state mandates behind each system.
 - **By the numbers:** eight figures, each linked to its source.
