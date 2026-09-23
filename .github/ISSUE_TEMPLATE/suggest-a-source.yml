@@ -1,0 +1,48 @@
+name: Suggest a source
+description: Recommend an article, filing, report, or tool for the E-rate tracker.
+title: "Source: "
+labels: ["source suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping keep the record complete. Every suggestion is checked against the original before it is added.
+  - type: input
+    id: url
+    attributes:
+      label: Link
+      placeholder: https://
+    validations:
+      required: true
+  - type: input
+    id: title
+    attributes:
+      label: Title and outlet
+      placeholder: Headline, Publication
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Kind of source
+      options:
+        - FCC or federal document
+        - Advocacy or coalition
+        - News
+        - Analysis or research
+        - Background
+        - Tool or resource
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: What does it add?
+      description: One or two sentences on what a reader would learn from it.
+  - type: dropdown
+    id: filed
+    attributes:
+      label: Is this a comment filed in WC Docket No. 26-133?
+      options:
+        - "No"
+        - "Yes, and it is public on ECFS"

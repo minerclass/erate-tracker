@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Social card source</title>
+  <!-- Source for social/card.png (1200x630). Regenerate with:
+       msedge --headless --disable-gpu --hide-scrollbars --window-size=1200,630 --screenshot=card.png card.html -->
+  <style>
+    html, body { margin: 0; width: 1200px; height: 630px; overflow: hidden; }
+    body {
+      position: relative;
+      box-sizing: border-box;
+      padding: 64px 72px;
+      background: #111318;
+      color: #f0eee8;
+      font-family: "Segoe UI", system-ui, sans-serif;
+    }
+    .rings { position: absolute; right: -230px; top: -170px; width: 600px; height: 600px; }
+    .eyebrow { margin: 0 0 22px; color: #70aee7; font-family: Consolas, monospace; font-size: 22px; letter-spacing: 0.1em; text-transform: uppercase; }
+    h1 { margin: 0 0 22px; font-family: Georgia, serif; font-size: 112px; line-height: 0.95; }
+    p.lede { max-width: 800px; margin: 0; font-size: 33px; line-height: 1.3; color: #d9dbe0; }
+    .foot { position: absolute; left: 72px; right: 72px; bottom: 56px; display: flex; justify-content: space-between; align-items: flex-end; }
+    .deadline { padding: 16px 24px; border: 2px solid #f0bd45; border-radius: 12px; color: #f0bd45; font-size: 28px; font-weight: 700; }
+    .url { color: #a8adb7; font-family: Consolas, monospace; font-size: 26px; }
+  </style>
+</head>
+<body>
+  <svg class="rings" viewBox="0 0 620 620" aria-hidden="true">
+    <g fill="none" stroke="#70aee7">
+      <circle cx="310" cy="310" r="90" stroke-width="10" stroke-opacity=".9"/>
+      <circle cx="310" cy="310" r="170" stroke-width="6" stroke-opacity=".45"/>
+      <circle cx="310" cy="310" r="250" stroke-width="4" stroke-opacity=".22"/>
+    </g>
+    <circle cx="310" cy="310" r="26" fill="#f0bd45"/>
+  </svg>
+  <p class="eyebrow">E-rate tracker &middot; FCC Docket 26-133</p>
+  <h1>Before the Bell</h1>
+  <p class="lede">What a school network carries before the first login, and what the FCC's E-rate review puts at stake.</p>
+  <div class="foot">
+    <span class="deadline">FCC comments due Oct 13, 2026</span>
+    <span class="url">minerclass.github.io/erate-tracker</span>
+  </div>
+</body>
+</html>

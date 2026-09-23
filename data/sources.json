@@ -1,0 +1,500 @@
+{
+  "updated": "2026-09-23",
+  "deadlines": {
+    "comments": "2026-10-13",
+    "replies": "2026-11-12"
+  },
+  "types": {
+    "fcc": "FCC and federal",
+    "advocacy": "Advocacy",
+    "news": "News",
+    "analysis": "Analysis and research",
+    "background": "Background",
+    "tool": "Tools"
+  },
+  "sources": [
+    {
+      "id": "cosn-hawthorne-before-a-single-student",
+      "date": "2026-07-30",
+      "type": "advocacy",
+      "featured": true,
+      "angle": "The featured piece",
+      "title": "Before a Single Student Logs On",
+      "publisher": "CoSN",
+      "author": "Stacy Hawthorne, CETL",
+      "url": "https://www.cosn.org/before-a-single-student-logs-on/",
+      "summary": "Walks through a school morning hour by hour, from 5:30 a.m. bus routing to attendance at 8:00, to show how much the network carries before any student touches a device. Hawthorne ties most of it to federal and state mandates (Kari's Law, RAY BAUM's Act, CIPA, IDEA) and argues that E-rate works like a utility. Ends with homework: put an accurate account of your network in the docket."
+    },
+    {
+      "id": "govtech-school-leaders-mobilize",
+      "date": "2026-09-10",
+      "type": "news",
+      "featured": true,
+      "angle": "The town hall",
+      "title": "School Leaders Mobilize as FCC Weighs Future of E-Rate",
+      "publisher": "GovTech",
+      "author": "Julia Gilban-Cohen",
+      "url": "https://www.govtech.com/education/k-12/school-leaders-mobilize-as-fcc-weighs-future-of-e-rate",
+      "summary": "Reports on the AASA virtual town hall, which drew more than 600 registrants. SHLB's Joey Wender stresses that the cost of connectivity does not disappear if the subsidy does, Hawthorne describes the network as life-safety infrastructure, and AASA's David Schuler urges districts to file their own stories. Notes that much of the item asks questions rather than proposing rules."
+    },
+    {
+      "id": "fcc-26-41",
+      "date": "2026-06-26",
+      "type": "fcc",
+      "featured": true,
+      "angle": "The item itself",
+      "title": "FCC 26-41: Notice of Proposed Rulemaking and Further Notice (E-Rate review)",
+      "publisher": "Federal Communications Commission",
+      "author": "Adopted June 25, 2026; released June 26",
+      "url": "https://www.fcc.gov/document/fcc-review-e-rate-program-ensure-congresss-vision",
+      "summary": "The primary document. The NPRM asks whether E-rate should be limited or sunset, limited to rural or single-provider areas, or stripped of services the Commission now views as unnecessary; it also reopens CIPA and asks about screen-time limits and parental opt-outs. The FNPRM proposes consultant registration and oversight. Adopted with Chairman Carr and Commissioner Trusty approving and Commissioner Gomez dissenting in part."
+    },
+    {
+      "id": "fcc-carr-statement",
+      "date": "2026-06-25",
+      "type": "fcc",
+      "angle": "The FCC's case",
+      "title": "Statement of Chairman Brendan Carr on FCC 26-41",
+      "publisher": "Federal Communications Commission",
+      "author": "Brendan Carr",
+      "url": "https://docs.fcc.gov/public/attachments/FCC-26-41A2.pdf",
+      "summary": "Frames the review around a decade-long rise in classroom screen time and declines in reading and math, citing NAEP, the Surgeon General's 2026 screen advisory, and JAMA research. Read this to understand the argument commenters are responding to."
+    },
+    {
+      "id": "fcc-gomez-statement",
+      "date": "2026-06-25",
+      "type": "fcc",
+      "angle": "The dissent",
+      "title": "Statement of Commissioner Anna M. Gomez, dissenting in part",
+      "publisher": "Federal Communications Commission",
+      "author": "Anna M. Gomez",
+      "url": "https://docs.fcc.gov/public/attachments/FCC-26-41A3.pdf",
+      "summary": "Argues that the screen-time framing obscures proposals to terminate E-rate or confine it to rural or single-provider areas, and that cutting connectivity contradicts the administration's own AI education priorities. Notes that schools carry recurring costs for service, internal networks, cybersecurity, and building and safety systems."
+    },
+    {
+      "id": "fcc-trusty-statement",
+      "date": "2026-06-25",
+      "type": "fcc",
+      "angle": "An opening for commenters",
+      "title": "Statement of Commissioner Olivia Trusty on FCC 26-41",
+      "publisher": "Federal Communications Commission",
+      "author": "Olivia Trusty",
+      "url": "https://docs.fcc.gov/public/attachments/FCC-26-41A4.pdf",
+      "summary": "Supports periodic review while noting that some analyses find 96 percent of public schools receive E-rate support. Explicitly invites advocates to explain how the program can focus on the most pressing connectivity needs, which is a useful prompt for anyone drafting a comment."
+    },
+    {
+      "id": "fcc-calascione-blog",
+      "date": "2026-07-29",
+      "type": "fcc",
+      "angle": "The FCC's reassurance",
+      "title": "Report Cards and Diplomas: Progress in Meeting the Goals of the E-Rate Program",
+      "publisher": "FCC Blog",
+      "author": "Joseph Calascione, Chief, Wireline Competition Bureau",
+      "url": "https://www.fcc.gov/news-events/blog/2026/07/29/report-cards-and-diplomas-progress-meeting-goals-e-rate-program",
+      "summary": "The bureau chief's defense of the item as overdue governance for a 30-year-old program. States that the June vote did not eliminate E-rate and that no school or library will lose support as a result of it. Worth citing for accuracy: nothing changes until the Commission adopts an order."
+    },
+    {
+      "id": "federal-register-2026-16590",
+      "date": "2026-08-14",
+      "type": "fcc",
+      "angle": "Sets the deadlines",
+      "title": "FCC To Review E-Rate Program To Ensure Congress's Vision (Federal Register 2026-16590)",
+      "publisher": "Federal Register",
+      "author": "Federal Communications Commission",
+      "url": "https://www.federalregister.gov/documents/2026/08/14/2026-16590/fcc-to-review-e-rate-program-to-ensure-congresss-vision",
+      "summary": "Official publication of the NPRM. Its publication date fixed the schedule: comments due October 13, 2026, and reply comments due November 12, 2026, in WC Docket No. 26-133."
+    },
+    {
+      "id": "ntia-listening-session",
+      "date": "2026-09-15",
+      "type": "fcc",
+      "angle": "The administration's listening session",
+      "title": "NTIA Listening Session on the FCC's E-Rate and Screen Use NPRM",
+      "publisher": "National Telecommunications and Information Administration",
+      "author": "NTIA",
+      "url": "https://www.ntia.gov/events-and-meetings/ntia-listening-session-fccs-e-rate-and-screen-use-nprm",
+      "summary": "A virtual public session (September 15, 7:00 to 8:30 p.m. ET) organized around screen-based instruction, parental opt-outs, and school internet safety policies. Shows the executive branch pursuing the screen-use questions alongside the FCC."
+    },
+    {
+      "id": "cosn-joins-coalition",
+      "date": "2026-06-25",
+      "type": "advocacy",
+      "angle": "CoSN's position",
+      "title": "CoSN Joins Leading Education Organizations in Opposing FCC Proposal on E-Rate",
+      "publisher": "CoSN",
+      "author": "CoSN",
+      "url": "https://www.cosn.org/cosn-news/cosn-joins-leading-education-organizations-in-opposing-fcc-proposal-on-e-rate/",
+      "summary": "CoSN's statement on adoption day. CEO Keith Krueger says the organization is deeply concerned that the rule could threaten a program schools have relied on for nearly three decades; the coalition warns that cuts would fall hardest on lower-income communities, rural and urban alike."
+    },
+    {
+      "id": "shlb-save-our-erate",
+      "date": "2026-06-25",
+      "type": "advocacy",
+      "angle": "The coalition hub",
+      "title": "Save Our E-Rate",
+      "publisher": "Schools, Health & Libraries Broadband Coalition",
+      "author": "SHLB with ALA, CoSN, AASA",
+      "url": "https://www.shlb.org/save-our-e-rate",
+      "summary": "The central campaign page. Links to comment templates, contact-your-legislator campaigns for schools and libraries, state-by-state funding data for FY2021 to FY2025, and the AASA district map."
+    },
+    {
+      "id": "ala-save-our-erate-launch",
+      "date": "2026-06-25",
+      "type": "advocacy",
+      "angle": "Library impact",
+      "title": "American Library Association launches national advocacy campaign to fight FCC attack on library funding",
+      "publisher": "American Library Association",
+      "author": "ALA",
+      "url": "https://www.ala.org/news/2026/06/save-our-erate-launch",
+      "summary": "ALA and SHLB announce Save Our E-Rate at the ALA Annual Conference in Chicago. ALA President Sam Helmick says there is no justification for ending the program, and SHLB's Joey Wender argues the FCC should be asking how to make it stronger."
+    },
+    {
+      "id": "american-libraries-new-threat",
+      "date": "2026-06-16",
+      "type": "advocacy",
+      "angle": "Before the vote",
+      "title": "A New Threat to E-Rate",
+      "publisher": "American Libraries",
+      "author": "Joey Wender",
+      "url": "https://americanlibrariesmagazine.org/2026/06/16/a-new-threat-to-e-rate/",
+      "summary": "Written between the June 4 draft and the June 25 vote. Wender compares broadband to highways: building the road once does not end the need to maintain it. Emphasizes that the deepest discounts go to the highest-need communities."
+    },
+    {
+      "id": "aesa-take-action",
+      "date": "2026-06-30",
+      "type": "advocacy",
+      "angle": "Service agencies",
+      "title": "Take Action: Help Protect the E-Rate Program",
+      "publisher": "Association of Educational Service Agencies",
+      "author": "Noelle Ellerson Ng",
+      "url": "https://www.aesa.us/2026/06/30/take-action-help-protect-the-e-rate-program/",
+      "summary": "Flags provisions that get less attention, including whether Head Start and pre-K students should remain eligible, and lays out a two-step campaign: letters to Congress, then coordinated FCC comments. Written for regional service agencies working with AASA, ASBO, and NREA."
+    },
+    {
+      "id": "edweek-fcc-launches-review",
+      "date": "2026-06-08",
+      "type": "news",
+      "angle": "First national report",
+      "title": "FCC Launches Review of E-Rate Program Amid Screen Time Debate",
+      "publisher": "Education Week",
+      "author": "Lauraine Langreo",
+      "url": "https://www.edweek.org/technology/fcc-launches-review-of-e-rate-program-amid-screen-time-debate/2026/06",
+      "summary": "Breaks the draft for an education audience. Carr says technology in schools should support learning rather than distraction; SHLB calls termination an existential threat; AASA's Noelle Ellerson Ng argues screen time should not be conflated with connectivity."
+    },
+    {
+      "id": "k12dive-should-erate-be-eliminated",
+      "date": "2026-06-25",
+      "type": "news",
+      "angle": "Vote-day coverage",
+      "title": "FCC wants to know: Should the E-rate program be eliminated?",
+      "publisher": "K-12 Dive",
+      "author": "Anna Merod",
+      "url": "https://www.k12dive.com/news/fcc-wants-to-know-should-the-e-rate-program-be-eliminated/823813/",
+      "summary": "Covers the vote and the screen-time rationale, noting that at least six states had screen-time limits by April 2026 with more than a dozen considering them. Includes the software industry's (SIIA) call to separate genuine screen-time concerns from connectivity."
+    },
+    {
+      "id": "govtech-deeply-concerned",
+      "date": "2026-06-30",
+      "type": "news",
+      "angle": "Ed tech leaders react",
+      "title": "Ed-Tech Leaders 'Deeply Concerned' by Talks of Shutting Down E-Rate",
+      "publisher": "GovTech",
+      "author": "Abby Sourwine",
+      "url": "https://www.govtech.com/education/k-12/ed-tech-leaders-deeply-concerned-by-talks-of-shutting-down-e-rate",
+      "summary": "Collects reactions from CoSN, SHLB, and ALA. The recurring argument: high connectivity rates reflect the program's success, and networks still need maintenance, upgrades, and security. Also announces the SaveOurERate.com district data tools."
+    },
+    {
+      "id": "k12dive-comment-period-opens",
+      "date": "2026-08-18",
+      "type": "news",
+      "angle": "The money at stake",
+      "title": "FCC opens comment period on E-rate's future",
+      "publisher": "K-12 Dive",
+      "author": "Anna Merod",
+      "url": "https://www.k12dive.com/news/fcc-opens-comment-period-on-e-rates-future/828069/",
+      "summary": "Reports that E-rate sent $10.5 billion to school districts and $13.2 billion to all recipients from 2021 to 2025, drawing on the advocates' USAC analysis. Advocates stress that E-rate pays for connectivity and equipment, not devices or content."
+    },
+    {
+      "id": "broadband-breakfast-early-pushback",
+      "date": "2026-08-20",
+      "type": "news",
+      "angle": "What early filers say",
+      "title": "FCC's E-Rate Proposal Draws Early Pushback from Schools, Libraries",
+      "publisher": "Broadband Breakfast",
+      "author": "Jericho Casper",
+      "url": "https://broadbandbreakfast.com/fccs-e-rate-proposal-draws-early-pushback-from-schools-libraries/",
+      "summary": "A read of the first filings in the docket. Recipients warn of staff cuts, lost cybersecurity protections, and federal control over decisions that have belonged to local boards and library trustees."
+    },
+    {
+      "id": "stateline-sound-alarm",
+      "date": "2026-09-10",
+      "type": "news",
+      "angle": "Numbers by state",
+      "title": "Schools, libraries sound alarm over potential changes to federal internet program",
+      "publisher": "Stateline",
+      "author": "Robbie Sequeira",
+      "url": "https://stateline.org/2026/09/10/schools-libraries-sound-alarm-over-potential-changes-to-federal-internet-program/",
+      "summary": "Nearly 102,000 schools and nearly 12,000 libraries received FY2024 commitments. Includes a Texas superintendent's account of an $11 million, five-year budget exposure and ALA's figure that 73 percent of public libraries rely on E-rate. Republishable under CC BY-NC-ND 4.0."
+    },
+    {
+      "id": "wshu-nypnn-officials-concerned",
+      "date": "2026-09-14",
+      "type": "news",
+      "angle": "A state view (New York)",
+      "title": "FCC review of how internet connectivity is funded at schools has some officials concerned",
+      "publisher": "WSHU / New York Public News Network",
+      "author": "Samuel King",
+      "url": "https://www.wshu.org/2026-09-14/fcc-review-of-how-internet-connectivity-is-funded-at-schools-has-some-officials-concerned",
+      "summary": "New York has received more than $800 million in recent years. The EdLiNC co-chair makes the distinction many commenters are drawing: E-rate is a connectivity program, not an education program, so screen-time rules belong with education agencies."
+    },
+    {
+      "id": "benton-erate-screen-time",
+      "date": "2026-06-04",
+      "type": "analysis",
+      "angle": "Best plain-language walkthrough",
+      "title": "E-Rate and Children's Screen Time",
+      "publisher": "Benton Institute for Broadband & Society",
+      "author": "Kevin Taglang",
+      "url": "https://www.benton.org/blog/e-rate-and-childrens-screen-time",
+      "summary": "A section-by-section summary of the draft item on the day it circulated, including FY2025 demand ($1.806 billion for Category One, $1.418 billion for Category Two) and the draft's figure that 99.3 percent of schools now have high-speed broadband."
+    },
+    {
+      "id": "ffl-wide-ranging-review",
+      "date": "2026-06-09",
+      "type": "analysis",
+      "angle": "Administrative details",
+      "title": "FCC Seeks Input on Wide-Ranging E-Rate Review Covering Screen Time, Program Scope, and Oversight",
+      "publisher": "Funds For Learning",
+      "author": "Funds For Learning",
+      "url": "https://www.fundsforlearning.com/news/fcc-seeks-input-on-wide-ranging-e-rate-review-covering-screen-time-program-scope-and-oversight/",
+      "summary": "Catches the procedural changes that affect applicants directly, including special construction and dark fiber, the Kalamazoo exception for memorialized contracts, and a firm June 30 deadline for Form 473."
+    },
+    {
+      "id": "ffl-comment-window-open",
+      "date": "2026-08-19",
+      "type": "analysis",
+      "angle": "How to file",
+      "title": "The E-rate Review Comment Window Is Open: Comments Due October 13",
+      "publisher": "Funds For Learning",
+      "author": "Verlyne Jolley",
+      "url": "https://www.fundsforlearning.com/news/the-e-rate-review-comment-window-is-open-comments-due-october-13/",
+      "summary": "Deadlines, the ECFS link for Docket 26-133, and a calm reminder that nothing changes for current funding. Makes the case that applicants see what E-rate makes possible every day and that perspective belongs in the record."
+    },
+    {
+      "id": "k12mt-montana",
+      "date": "2026-08-17",
+      "type": "analysis",
+      "angle": "Rural impact",
+      "title": "The FCC Is Asking Whether E-Rate Should Be Narrowed. What Does That Mean for Montana School Districts?",
+      "publisher": "K12 Montana",
+      "author": "Jeff Patterson",
+      "url": "https://www.k12mt.com/k12-montana/blog/the-fcc-is-asking-whether-e-rate-should-be-narrowed.-what-does-that-mean-for-montana-school-districts",
+      "summary": "Shows that a rural-only E-rate would not protect rural districts: 95 percent of Montana districts are rural, and narrowing special construction would strand the state's own fiber matching funds. A model for a state-level analysis."
+    },
+    {
+      "id": "ffl-stable-essential",
+      "date": "2026-02-05",
+      "type": "analysis",
+      "angle": "Before the review",
+      "title": "E-rate in 2026: Stable, Essential, and Under New Pressure",
+      "publisher": "Funds For Learning",
+      "author": "John Harrington, CEMP",
+      "url": "https://www.fundsforlearning.com/news/e-rate-in-2026-stable-essential-and-under-new-pressure/",
+      "summary": "Written months before the NPRM. Describes networks carrying more complexity, reliability expectations, and security risk than before, with applicants already supplementing E-rate with local funds for needs it does not cover."
+    },
+    {
+      "id": "ffl-trends-report-2025",
+      "date": "2025-09-01",
+      "type": "analysis",
+      "angle": "What applicants say",
+      "title": "2025 E-rate Trends Report",
+      "publisher": "Funds For Learning",
+      "author": "Funds For Learning",
+      "url": "https://www.fundsforlearning.com/trendsreport/",
+      "summary": "The 15th annual applicant survey: 97.6 percent of respondents say E-rate funding is vital to their mission and 96.2 percent say the program is affordable. Respondents asked for security and maintenance to be added to eligible services.",
+      "dateLabel": "2025"
+    },
+    {
+      "id": "cosn-state-of-edtech-2026",
+      "date": "2026-05-06",
+      "type": "analysis",
+      "angle": "What districts are managing",
+      "title": "U.S. State of EdTech 2026",
+      "publisher": "CoSN",
+      "author": "CoSN",
+      "url": "https://www.cosn.org/edtech-topics/state-of-edtech-leadership/",
+      "summary": "Survey of 607 K-12 technology leaders in 44 states. Cybersecurity is the top priority for the eighth straight year, and, as GovTech reported, 65 percent name insufficient budget as the biggest barrier to it. Useful context for why network costs keep rising.",
+      "dateLabel": "May 2026"
+    },
+    {
+      "id": "edweek-scotus-upholds",
+      "date": "2025-06-27",
+      "type": "background",
+      "angle": "The court fight",
+      "title": "Supreme Court Upholds School E-Rate Program",
+      "publisher": "Education Week",
+      "author": "Mark Walsh",
+      "url": "https://www.edweek.org/policy-politics/supreme-court-upholds-school-e-rate-program/2025/06",
+      "summary": "In FCC v. Consumers' Research, a 6-3 Court upheld the Universal Service Fund's funding mechanism. That settled the constitutional question; the 2026 review raises a different one, about whether the FCC itself can narrow or sunset a program Congress mandated."
+    },
+    {
+      "id": "k12dive-hotspots-removed",
+      "date": "2025-09-30",
+      "type": "background",
+      "angle": "The first rollback",
+      "title": "FCC removes school bus Wi-Fi, hotspots from E-rate",
+      "publisher": "K-12 Dive",
+      "author": "Anna Merod",
+      "url": "https://www.k12dive.com/news/fcc-removes-school-bus-wi-fi-hotspots-from-e-rate/761481/",
+      "summary": "By a 2-1 vote, the FCC ended E-rate support for hotspot lending and school bus Wi-Fi, reasoning that a bus is neither a classroom nor a library. The 2026 NPRM cites these reversals and asks whether similar expansions deserve the same treatment."
+    },
+    {
+      "id": "tool-ecfs-26-133",
+      "date": "2026-08-14",
+      "type": "tool",
+      "angle": "File a comment",
+      "title": "FCC ECFS: file in WC Docket No. 26-133",
+      "publisher": "Federal Communications Commission",
+      "author": "ECFS",
+      "url": "https://www.fcc.gov/ecfs/filings/new?proceedings=26-133",
+      "summary": "The FCC's Electronic Comment Filing System, preset to the E-rate docket. Standard filings accept attachments; express comments take plain text.",
+      "dateLabel": "Open now"
+    },
+    {
+      "id": "tool-shlb-file-comments",
+      "date": "2026-08-14",
+      "type": "tool",
+      "angle": "Templates",
+      "title": "File Comments with the FCC",
+      "publisher": "Schools, Health & Libraries Broadband Coalition",
+      "author": "SHLB",
+      "url": "https://www.shlb.org/file-comments-with-fcc",
+      "summary": "Three filing paths (formal comment, personalized letter, express comment) with templates, step-by-step instructions, and an explainer. The fastest route for a first-time filer.",
+      "dateLabel": "Open now"
+    },
+    {
+      "id": "tool-aasa-map",
+      "date": "2026-06-30",
+      "type": "tool",
+      "angle": "Find your district's number",
+      "title": "Keep Schools Connected: E-Rate Funding Map",
+      "publisher": "AASA, The School Superintendents Association",
+      "author": "AASA",
+      "url": "https://erate.aasa.org/",
+      "summary": "County and district E-rate commitments for FY2021 to FY2025 from USAC Open Data: $13.2 billion across 24,969 applicants, reaching 98.1 percent of U.S. counties. Search by ZIP code to get the figure for your comment.",
+      "dateLabel": "Open now"
+    },
+    {
+      "id": "tool-cosn-petition",
+      "date": "2026-07-30",
+      "type": "tool",
+      "angle": "Sign on",
+      "title": "CoSN petition in support of affordable school broadband",
+      "publisher": "CoSN",
+      "author": "CoSN",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLScuw2CdJfA9vjvXRAZduv--rOE0M1midLWQBmY4OjTF0XpvDw/viewform",
+      "summary": "The petition linked from Hawthorne's article. A lower-effort action for people who will not file a full comment.",
+      "dateLabel": "Open now"
+    },
+    {
+      "id": "tool-ltc-illinois",
+      "date": "2026-08-14",
+      "type": "tool",
+      "angle": "Illinois districts",
+      "title": "E-Rate Support, Learning Technology Center of Illinois",
+      "publisher": "Learning Technology Center of Illinois",
+      "author": "LTC",
+      "url": "https://www.ltcillinois.org/services/erate/",
+      "summary": "Free E-rate consulting for Illinois districts through the State E-Rate Coordinator, with a running summary of the FCC review and encouragement to file.",
+      "dateLabel": "Open now"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "1996-02-08",
+      "label": "Congress writes universal service for schools and libraries into section 254(h) of the Telecommunications Act."
+    },
+    {
+      "date": "1997-05-07",
+      "label": "The FCC creates the schools and libraries program that becomes E-rate.",
+      "approx": "May 1997"
+    },
+    {
+      "date": "2000-12-21",
+      "label": "CIPA becomes law, tying E-rate support to filtering and internet safety policies."
+    },
+    {
+      "date": "2014-12-11",
+      "label": "The E-rate modernization orders shift support toward broadband and Wi-Fi inside buildings.",
+      "approx": "2014"
+    },
+    {
+      "date": "2025-06-27",
+      "label": "The Supreme Court upholds the Universal Service Fund, 6-3, in FCC v. Consumers' Research.",
+      "source": "edweek-scotus-upholds"
+    },
+    {
+      "date": "2025-09-30",
+      "label": "The FCC ends E-rate support for hotspot lending and school bus Wi-Fi, 2-1.",
+      "source": "k12dive-hotspots-removed"
+    },
+    {
+      "date": "2026-06-04",
+      "label": "Chairman Carr circulates the draft NPRM.",
+      "source": "benton-erate-screen-time"
+    },
+    {
+      "date": "2026-06-16",
+      "label": "The E-rate Advocates ask the FCC to drop the termination questions from the final item.",
+      "source": "k12dive-comment-period-opens"
+    },
+    {
+      "date": "2026-06-25",
+      "label": "The FCC adopts FCC 26-41, 2-1 in part. Save Our E-Rate launches the same day.",
+      "source": "fcc-26-41"
+    },
+    {
+      "date": "2026-07-29",
+      "label": "The Wireline Competition Bureau chief says no school will lose support from the June vote.",
+      "source": "fcc-calascione-blog"
+    },
+    {
+      "date": "2026-07-30",
+      "label": "CoSN publishes Hawthorne's \"Before a Single Student Logs On.\"",
+      "source": "cosn-hawthorne-before-a-single-student"
+    },
+    {
+      "date": "2026-08-14",
+      "label": "Federal Register publication sets the comment schedule.",
+      "source": "federal-register-2026-16590"
+    },
+    {
+      "date": "2026-09-09",
+      "label": "AASA's virtual town hall draws more than 600 registrants.",
+      "source": "govtech-school-leaders-mobilize"
+    },
+    {
+      "date": "2026-09-15",
+      "label": "NTIA holds a public listening session on screen use and E-rate.",
+      "source": "ntia-listening-session"
+    },
+    {
+      "date": "2026-10-13",
+      "label": "Initial comments due in WC Docket No. 26-133.",
+      "deadline": true,
+      "source": "tool-ecfs-26-133"
+    },
+    {
+      "date": "2026-11-12",
+      "label": "Reply comments due.",
+      "deadline": true,
+      "source": "tool-ecfs-26-133"
+    },
+    {
+      "date": "2027-07-01",
+      "label": "A new centralized E-rate bidding portal takes effect (a separate proceeding).",
+      "approx": "July 2027",
+      "source": "govtech-school-leaders-mobilize"
+    }
+  ]
+}
