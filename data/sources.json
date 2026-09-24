@@ -514,6 +514,11 @@
       "source": "ntia-listening-session"
     },
     {
+      "date": "2026-10-08",
+      "label": "Five days left: reminders go out to file in Docket 26-133 or send CoSN's one-minute letter to Congress.",
+      "source": "tool-ecfs-26-133"
+    },
+    {
       "date": "2026-10-13",
       "label": "Initial comments due in WC Docket No. 26-133.",
       "deadline": true,
